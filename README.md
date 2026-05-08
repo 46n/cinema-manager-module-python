@@ -157,6 +157,3 @@ The `diagrams/` folder contains flowchart images that document the main program 
 - Separate the program into smaller modules for easier maintenance
 - Add automated tests for booking, login, schedule, and manager workflows
 
-## Privacy Notes
-
-The main Python file is kept identical to the original assignment source. Review the source comments and hard-coded academic test credentials before uploading to a public repository. Runtime files that may contain customer names, emails, passwords, bookings, or maintenance notes are ignored through `.gitignore` and should not be uploaded unless they are sanitized sample data.
