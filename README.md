@@ -1,5 +1,9 @@
 # Cinema Manager Module - Cinema Ticket Booking and Management System
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Interface](https://img.shields.io/badge/Interface-CLI-2E3440)
+![Storage](https://img.shields.io/badge/Storage-Text%20Files-6A5ACD)
+
 ## Overview
 
 This project is a command-line Python application developed as part of an academic group assignment for a Cinema Ticket Booking and Management System. The full group project included multiple user roles, while this repository focuses on the Cinema Manager module and its management features.
