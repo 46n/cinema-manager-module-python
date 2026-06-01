@@ -2,15 +2,15 @@
 
 ## Overview
 
-This project is a command-line Python application developed as my Cinema Manager module for an academic group assignment. The original group project was a Cinema Ticket Booking and Management System with multiple user roles, but this repository focuses only on my contribution: the Cinema Manager features.
+This project is a command-line Python application developed as part of an academic group assignment for a Cinema Ticket Booking and Management System. The full group project included multiple user roles, while this repository focuses on the Cinema Manager module and its management features.
 
 The Cinema Manager module allows a cinema manager to manage movie listings, auditoriums, showtime schedules, ticket prices, discount settings, and basic system statistics using a menu-driven command-line interface.
 
 The program uses text-file storage, input validation, functions, loops, conditionals, and basic file handling to simulate simple cinema management operations.
 
-## My Contribution
+## Team Contribution
 
-I was responsible for developing the Cinema Manager module, including:
+The Cinema Manager module work covered:
 
 - Managing movie records
 - Managing auditorium records
@@ -141,7 +141,7 @@ The `diagrams/` folder contains flowchart images that document the main program 
 
 ![Statistics Flowchart](diagrams/statistics-flowchart.png)
 
-## What I Learned
+## What We Learned
 
 - Strengthened Python fundamentals through functions, loops, conditionals, and menu-driven programming
 - Practiced file handling by reading from and writing to text files for simple data persistence
